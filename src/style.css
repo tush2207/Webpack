@@ -1,0 +1,9 @@
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: silver;
+}
+#image {
+  background: url('./webpack-icon.png');
+  height: 250px;
+  width: 250px;
+}
